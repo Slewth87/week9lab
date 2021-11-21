@@ -1,0 +1,16 @@
+body{
+    font-family: Georgia, "Times New Roman", Times, serif;
+  }
+
+.small{
+    margin: auto;
+    width: 60%;
+}
+
+.custom-colors{
+    background-color: lightgrey;
+}
+
+.progress{
+    background-color: white;
+}
